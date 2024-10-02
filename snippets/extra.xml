@@ -5,11 +5,11 @@
            fetch="https://gitlab.com" />
 
   <!-- Kusuma additions -->
-  <project path="external/fonts-extra" name="KusumaOS/android_external_fonts-extra" />
-  <project path="packages/apps/GlimpsePrebuilt" name="KusumaOS/android_packages_apps_GlimpsePrebuilt" groups="pdk-fs" />
+  <project path="external/fonts-extra" name="Kusuma-x-Blueprint/android_external_fonts-extra" />
+  <project path="packages/apps/GlimpsePrebuilt" name="Kusuma-x-Blueprint/android_packages_apps_GlimpsePrebuilt" groups="pdk-fs" />
   <project path="packages/apps/MulchPrebuilt" name="KusumaOS/android_packages_apps_MulchPrebuilt" remote="gitlab" />
-  <project path="packages/apps/ParallelSpace" name="KusumaOS/android_packages_apps_ParallelSpace" />
-  <project path="packages/apps/ParanoidSense" name="KusumaOS/android_packages_apps_ParanoidSense" />
-  <project path="packages/apps/QrCodeScanner" name="KusumaOS/android_packages_apps_QrCodeScanner" />
-  <project path="vendor/lineage-priv/keys" name="KusumaOS/android_vendor_lineage-priv_keys" />
+  <project path="packages/apps/ParallelSpace" name="Kusuma-x-Blueprint/android_packages_apps_ParallelSpace" />
+  <project path="packages/apps/ParanoidSense" name="Kusuma-x-Blueprint/android_packages_apps_ParanoidSense" />
+  <project path="packages/apps/QrCodeScanner" name="Kusuma-x-Blueprint/android_packages_apps_QrCodeScanner" />
+  <project path="vendor/lineage-priv/keys" name="Kusuma-x-Blueprint/android_vendor_lineage-priv_keys" />
 </manifest>
